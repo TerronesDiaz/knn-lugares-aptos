@@ -1,4 +1,4 @@
-## ¿Puede un robot aprender dónde trabajar?
+# ¿Puede un robot aprender dónde trabajar?
 
 # ¿Es este lugar apto para trabajar?
 
